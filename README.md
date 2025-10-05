@@ -8,3 +8,4 @@
 - text/res-004.md: 文彩
 - text/res-005.md: 文末
 - text/res-006.md: キャラクターに起こる出来事
+- text/res-007.md: 三幕構成と起承転結の違い
