@@ -2,6 +2,8 @@
 
 ## 目次
 
+### 研究
+
 - text/res-001.md: 「どんでん返し」の作り方
 - text/res-002.md: 物語の牽引力とは何か
 - text/res-003.md: 面白さの源泉
@@ -14,3 +16,7 @@
 - text/res-010.md: キャラクターがキャラクターに影響する
 - text/res-011.md: 描写するもの
 - text/res-012.md: 転換点
+
+## 思考ノート
+
+- thinking-notes/thi-001.md: 文彩
